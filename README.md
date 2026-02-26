@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Mohammed Umeruddin, and you've stumbled upon my GitHub profile: [@umeruddin-cyber](https://github.com/umeruddin-cyber).
+I'm Mohammed Umeruddin, and you've stumbled upon my GitHub profile: [@noobresearcher](https://github.com/noobresearcher).
 
 ## About Me
 
@@ -13,6 +13,6 @@ I'm Mohammed Umeruddin, and you've stumbled upon my GitHub profile: [@umeruddin-
 - 📫 You can reach out and connect with me on [LinkedIn:- www.linkedin.com/in/mohammedumeruddin]
 
 <!---
-umeruddin-cyber/umeruddin-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+noobresearcher/nobresearcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
